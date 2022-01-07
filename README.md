@@ -5,6 +5,10 @@
 #### Using this application you are able to see the Covid-19 Cases, Deaths, Recovery Cases.
 #### You are able to check the status as Country-wise as well as world-wise. 
 
+## Live APP Link:
+https://brave-yonath-abbdd9.netlify.app/
+
+
 ## Benifits of this Dashboard -
 #### We can See Covid-19 Cases 
 ![WhatsApp Image 2022-01-07 at 12 26 59 (1)](https://user-images.githubusercontent.com/78480983/148588222-fa9e4600-d322-46e7-93ab-39a39500d6e0.jpeg)
